@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="ArtDetailsFragmentTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="artDetailsToImageApi()">
+        <State />
+      </entry>
+      <entry key="selectImage()">
+        <State />
+      </entry>
+      <entry key="testOnBackPressed()">
+        <State />
+      </entry>
+      <entry key="testSave()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
